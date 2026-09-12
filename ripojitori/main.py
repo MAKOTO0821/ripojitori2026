@@ -2,7 +2,7 @@
 
 import sys
 from pathlib import Path
-from analyzer import DataAnalyzer
+from .analyzer import DataAnalyzer
 
 
 def main():
